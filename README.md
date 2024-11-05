@@ -4,6 +4,9 @@ Laravel ile Rest-api, JWT(Json Web Tokens) ve Swagger
 - Token'ın geçerlilik süresini kodlar içerisinde belirleyebilirsiniz.
 - Swagger ile Rest-api metodlarını anlama ve test etme için kolay ve anlışılır bir arayüz sağlar.
 - Swagger'ın @OA Notasyonları ile kendi metodlarınızla ilgili bilgi vererek anlaşılırlığı arttırabilirsiniz.(Method türü, Örnek istek, parametre, dönüş değerleri, tittle, description vb.)
+- 
+JWT kurulum ve daha fazlası için -> https://jwt-auth.readthedocs.io/en/develop/
+Swagger kurulum ve daha fazlası için -> https://swagger.io/
 
   <img width="1062" alt="image" src="https://github.com/user-attachments/assets/5a76b078-8298-4667-a851-24eb923de44a">
   <img width="1481" alt="image" src="https://github.com/user-attachments/assets/e90e02b6-9037-4462-a07c-15d5c11570c0">
